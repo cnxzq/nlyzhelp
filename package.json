@@ -1,0 +1,25 @@
+{
+  "name": "nlyzhelp",
+  "version": "1.0.0",
+  "description": "---\r description: 操作流程\r ---",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-hints": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "serve":"gitbook serve",
+    "install":"gitbook install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zq1988626/nlyzhelp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zq1988626/nlyzhelp/issues"
+  },
+  "homepage": "https://github.com/zq1988626/nlyzhelp#readme"
+}
